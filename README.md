@@ -1,8 +1,7 @@
 # Weather-Forecast-Application
 
-
 ## Description
-
+````
 
 
 ## Table of Contents
@@ -35,6 +34,8 @@
 ## Installation
 
 Please click on the link to get to the application
+
+https://terrykor.github.io/Weather-Forecast-Application/
 
 
 ## Credits
