@@ -56,7 +56,7 @@ function runAPI() {
         for (var i = 1; i < 6; i++) {
           let forecastTileEl = document.createElement("div");
           forecastTileEl.className =
-            "forecastTile  flex flex-col space-y-4 pl-2 pt-1 pb-2 text-2xl bg-slate-700 text-white w-[13rem] rounded-md";
+            "forecastTile  flex flex-col space-y-4 pl-2 pt-1 pb-2 text-2xl bg-gradient-to-t from-cyan-900 via-cyan-800 to-cyan-600 text-white w-[13rem] rounded-md";
           let forecastDateEl = document.createElement("p");
           forecastDateEl.className = "forecastDate";
           let forecastIconEl = document.createElement("img");

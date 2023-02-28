@@ -1,22 +1,18 @@
 # Weather-Forecast-Application
 
 ## Description
-````
+The weather forecast application priveds user with current and next 5 days weather forecast and includes temperature, wind and humidity for any searched  city. City search will be saved for qiuck reference in the future.
 
 
 ## Table of Contents
 
-- [User Story](#)
-- [Usage](#)
-- [ScreenShot](#ScreenShot)
-- [Installation](#Installation)
-- [Credits](#Credits)
-- [License](#License)
-
-
-## User Story
-
-
+- [Technologies and WireFrame](#technologiesandwireframe)
+- [API](#api)
+- [Screen Shot](#screenshot)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 
 ## Technologies and WireFrame
@@ -24,18 +20,27 @@
 - HTML
 - CSS
 - Javascript
-- Node
+- [Tailwindcss](https://tailwindcss.com/)
+
+## API
+
+- Weather data is provided by [OpenWeather API](https://openweathermap.org/api)
 
 
-## ScreenShot
+## Screen Shot
 
-![Web Page Overview](./assets/WeatherDashboard.png?raw=true "Web Page Overview")
+![Web Page Overview](./assets/127.0.0.1_5501_index.html.png "Web Page Overview")
 
 ## Installation
 
-Please click on the link to get to the application
+  Please visit [Weather Forecast Website](https://terrykor.github.io/Weather-Forecast-Application/)
 
-https://terrykor.github.io/Weather-Forecast-Application/
+## Usage
+
+ - Enter any city name in the search field;
+ - Then click search button;
+ - Once button is clicked you see current weather foracast and 5 days weather forecast;
+ - All cities searched will be saved;
 
 
 ## Credits
@@ -44,4 +49,4 @@ https://terrykor.github.io/Weather-Forecast-Application/
 
 ## License
 
-MIT License
+![badge](https://img.shields.io/badge/license-MIT-blue)
